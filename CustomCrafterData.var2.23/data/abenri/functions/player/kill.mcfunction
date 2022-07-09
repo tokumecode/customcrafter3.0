@@ -1,0 +1,1 @@
+give @p netherite_sword{display:{Name:'{"text":"基本ワンパン"}'},eguwgf:1,Enchantments:[{}],AttributeModifiers:[{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:199999,Operation:0,UUID:[I;1449480289,1184255683,-1249399998,199983396],Slot:"mainhand"}]} 1

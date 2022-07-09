@@ -1,0 +1,1 @@
+scoreboard objectives add YouSucceedToInstallTm-Datapack-CustomCrafter trigger "あなたはデータパックCustomCrafterの導入に成功しました。"

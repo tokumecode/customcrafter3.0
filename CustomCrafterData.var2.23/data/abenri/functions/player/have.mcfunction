@@ -1,0 +1,1 @@
+tellraw @s [{"nbt":"SelectedItem","entity":"@s"}]
